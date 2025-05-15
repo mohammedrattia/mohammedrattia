@@ -37,6 +37,3 @@ I am Mohammed Ragab Saad Attia, an alumni of the STEM High School for Boys in Gi
 <div style="display: flex; width:100%; flex-direction: row;">
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedrattia&show_icons=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="mohammedrattia" style="flex-grow: 1; width:30%;">
 	<img src="https://github-readme-stats.vercel.app/api?username=mohammedrattia&show_icons=true&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="mohammedrattia" style="flex-grow: 1; width:69%;">
-</div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mohammedrattia&bg_color=1e1e2e&text_color=cdd6f4&icon_color=cba6f7&title_color=94e2d5" alt="mohammedrattia" style="width:99%;">
-</div>
