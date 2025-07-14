@@ -23,11 +23,7 @@ I am Mohammed Ragab Saad Attia, an alumni of the STEM High School for Boys in Gi
 <a href="https://linkedin.com/in/mohammedrattia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohammedrattia" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23108914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23108914" height="30" width="40" /></a>
 <a href="https://kaggle.com/mohammedrattia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohammedrattia" height="30" width="40" /></a>
-<a href="https://instagram.com/mohammedrattia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohammedrattia" height="30" width="40" /></a>
-<a href="https://medium.com/@mohammedrattia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohammedrattia" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/mohammedrattia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="mohammedrattia" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mohammedrattia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohammedrattia" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mohammedrattia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohammedrattia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
