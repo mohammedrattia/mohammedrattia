@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi, I'm Mohammed R. Attia</h1>
-<h3 align="center">A machine learning engineer and data scientist from Egypt</h3>
+<h3 align="center">A computer scientist from Egypt</h3>
 
 I am Mohammed Ragab Saad Attia, an alumni of the STEM High School for Boys in Giza, Egypt, with a passion for computer science, software engneering, and machine learning. I am also an active competitive programmer from 2020. I won the 2023 National ISEF in Computational Biology and Bioinformatics. I mentored students in competitive programming and machine learning. I am committed to innovation and education, consistently demonstrating leadership and excellence in my field.
 
